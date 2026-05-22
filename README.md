@@ -48,3 +48,11 @@ uvicorn api:app --reload
 ```
 
 Open your browser and navigate to http://xxx.xxx.xxx.xxx:xxxx/docs￼ to see the interactive API documentation.
+ 
+## Contribution
+
+Contributed to the development, setup, documentation, and GitHub management of this internship project.
+
+## Author
+
+Lucky Yadav
